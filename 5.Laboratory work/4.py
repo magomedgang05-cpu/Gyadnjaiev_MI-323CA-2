@@ -1,5 +1,0 @@
-a, b, c, d, e = map(int, input("Введите 5 чисел: ").split())
-max_num = max(a, b, c, d, e)
-min_num = min(a, b, c, d, e)
-print(max_num)
-print(min_num)
